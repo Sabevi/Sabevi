@@ -5,8 +5,8 @@
 **About me**
 
 - Trilingual (🇮🇹 🇲🇫 🇬🇧)
-- 👩🏽‍💻 A junior software developer, currently studying at [Ada Tech School](https://https://adatechschool.fr/)
-- 👩🏽‍🎓 A msc sociology graduate from [Sciences Po](https://https://sciencespo.fr/)
+- 👩🏽‍💻 A Junior Software Developer, currently studying at [Ada Tech School](https://https://adatechschool.fr/)
+- 👩🏽‍🎓 A Msc Sociology Graduate from [Sciences Po](https://https://sciencespo.fr/)
 
 **About the GIF on the right**
 
