@@ -12,6 +12,8 @@
 
 - It's an extract from a platform video game I have coded !
 
-**Currently**
+**Currently (mai 2022)**
 
-- Building new projects and creating new algorithms (👉 below)
+- Working on the QUIZ and Learn Project : 
+  - https://github.com/Quizandlearn/front-end
+  - https://github.com/Quizandlearn/back-end
