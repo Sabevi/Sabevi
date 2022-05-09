@@ -12,6 +12,6 @@
 
 - It's an extract from a platform video game I have coded !
 
-**Currently working on the Quiz & Learn App (mai 2022)**
+**Currently working on the Quiz & Learn App**
   - https://github.com/Quizandlearn/front-end
   - https://github.com/Quizandlearn/back-end
