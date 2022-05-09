@@ -15,3 +15,6 @@
 **Currently working on the Quiz & Learn App**
   - https://github.com/Quizandlearn/front-end
   - https://github.com/Quizandlearn/back-end
+
+**About the GIF on the right**
+- Below : some algorithms I have created 1 year ago
