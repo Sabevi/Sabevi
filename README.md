@@ -12,9 +12,9 @@
 
 - It's an extract from a platform video game I have coded !
 
-**Currently working on the Quiz & Learn App**
-  - https://github.com/Quizandlearn/front-end
-  - https://github.com/Quizandlearn/back-end
+**Below**
+- Some algorithms I have created 1 year ago
 
-**About the GIF on the right**
-- Below : some algorithms I have created 1 year ago
+**Currently working on the Quiz & Learn App**
+  - 👉 https://github.com/Quizandlearn/front-end
+  - 👉 https://github.com/Quizandlearn/back-end
