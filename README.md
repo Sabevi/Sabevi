@@ -1,17 +1,7 @@
-### "Hey there ! I'm Sara" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hi, my name is **Sara**, I am a passionate software developer who loves creating web applications for all users.
+I am a very curious person who always enjoys learning new things.
+What I love the most about software engineering is that it allows me to express both my **analytical skills** and my **creativity**.
 
-<img align='right' src="Sabevi.gif" width="35%">
-
-**About me**
-
-- Trilingual (🇮🇹 🇲🇫 🇬🇧)
-- 👩🏽‍💻 A junior software developer, currently studying at [Ada Tech School](https://https://adatechschool.fr/)
-- 👩🏽‍🎓 A msc sociology graduate from [Sciences Po](https://https://sciencespo.fr/)
-
-**About the GIF on the right**
-
-- It's an extract from a platform video game I have coded !
-
-**Currently**
-
-- Building new projects and creating new algorithms (👉 below)
+Here are my most recent projects:
+- Quiz & Learn App
+- To Do App
