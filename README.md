@@ -5,3 +5,5 @@ What I love the most about software engineering is that it allows me to express 
 Here are my most recent projects:
 - Quiz & Learn App
 - To Do App
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabevi&show_icons=true&locale=en" alt="zlahrouni" /></p>
