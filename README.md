@@ -1,3 +1,1 @@
-💻 Hi, my name is **Sara**, I am a software engineering master's student with a 3 year professional experience
-
-📍 Here, you can find my most recent projects: 
+💻 Hi, my name is **Sara**
